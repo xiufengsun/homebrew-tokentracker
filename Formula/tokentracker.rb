@@ -1,8 +1,8 @@
 class Tokentracker < Formula
   desc "Token usage tracker for AI agent CLIs (Claude Code, Codex, Cursor, Gemini, etc.)"
   homepage "https://github.com/xiufengsun/TokenTracker"
-  url "https://registry.npmjs.org/tokentracker-cli/-/tokentracker-cli-1.5.17.tgz"
-  sha256 "9d563d1105949d8145f8bbf2c97b21b49bbf19d8429389dafeab59e9791af1f4"
+  url "https://registry.npmjs.org/tokentracker-cli/-/tokentracker-cli-1.5.18.tgz"
+  sha256 "76be027ccc22eb4da91a9d1cd7eef560dd7f1f44eea4d939c0f08a7ba48dc955"
   license "MIT"
 
   livecheck do
