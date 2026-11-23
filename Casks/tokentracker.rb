@@ -17,10 +17,10 @@ cask "tokentracker" do
   app "TokenTracker.app"
 
   zap trash: [
+    "~/.tokentracker",
     "~/Library/Application Support/TokenTrackerBar",
     "~/Library/Caches/me.rynn.TokenTrackerBar",
     "~/Library/Preferences/me.rynn.TokenTrackerBar.plist",
     "~/Library/Saved Application State/me.rynn.TokenTrackerBar.savedState",
-    "~/.tokentracker",
   ]
 end
